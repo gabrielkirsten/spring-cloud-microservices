@@ -4,6 +4,7 @@
 - Feign REST Client
 - Ribbon
 - Eureka
+- Zuul
 - Spring Cloud Sleuth + Zipkin
 
 From UDEMY course: 
